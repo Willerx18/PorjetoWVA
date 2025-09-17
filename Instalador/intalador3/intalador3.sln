@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "intalador3", "intalador3.vdproj", "{C9305F6C-7A79-4C08-91D4-AEE99EBD1EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9305F6C-7A79-4C08-91D4-AEE99EBD1EBD}.Debug|Default.ActiveCfg = Debug
+		{C9305F6C-7A79-4C08-91D4-AEE99EBD1EBD}.Debug|Default.Build.0 = Debug
+		{C9305F6C-7A79-4C08-91D4-AEE99EBD1EBD}.Release|Default.ActiveCfg = Release
+		{C9305F6C-7A79-4C08-91D4-AEE99EBD1EBD}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B7409C-2279-4A65-9C37-7C9094F005E1}
+	EndGlobalSection
+EndGlobal
